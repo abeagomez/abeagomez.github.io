@@ -33,11 +33,11 @@ kramdown:
 owner:
   name: abeagomez
   avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
-  email:
+  job: "programmer"
+  bio: "...out of my head"
+  email: "abeagomez@gmail.com"
   disqus-shortname:
-  twitter:
+  twitter: abeagomez
   facebook:
   google:
     plus:
@@ -46,7 +46,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: abeagomez
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
