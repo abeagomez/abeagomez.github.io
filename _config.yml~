@@ -4,7 +4,7 @@
 ####################################
 #
 title:       "Wonderwall"
-description: "My personal blog."
+description: "My personal blog"
 url:         # the base hostname & protocol for your site
 
 #
@@ -33,10 +33,10 @@ kramdown:
 owner:
   name: abeagomez
   avatar: avatar.jpg
-  job: "programmer"
-  bio: "...out of my head"
+  job: "programmer, dreamer and artist"
+  bio: "Hi, I'm Amy. I'm a 22 years old programmer and this is my first Jekyll website"
   email: "abeagomez@gmail.com"
-  disqus-shortname:
+  disqus-shortname: abeagomez-github-io
   twitter: abeagomez
   facebook:
   google:
