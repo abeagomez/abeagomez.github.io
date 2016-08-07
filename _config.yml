@@ -1,0 +1,64 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "Wonderwall"
+description: "My personal blog"
+url:         # the base hostname & protocol for your site
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: abeagomez
+  avatar: avatar.jpg
+  job: "programmer and dreamer"
+  bio: "Hi, I'm Amy. I'm a 22 years old programmer and this is my first Jekyll website"
+  email: "abeagomez@gmail.com"
+  disqus-shortname: abeagomez-github-io
+  twitter: abeagomez
+  facebook:
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: abeagomez
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
