@@ -33,7 +33,7 @@ kramdown:
 owner:
   name: abeagomez
   avatar: avatar.jpg
-  job: "programmer, dreamer and artist"
+  job: "programmer and dreamer"
   bio: "Hi, I'm Amy. I'm a 22 years old programmer and this is my first Jekyll website"
   email: "abeagomez@gmail.com"
   disqus-shortname: abeagomez-github-io
