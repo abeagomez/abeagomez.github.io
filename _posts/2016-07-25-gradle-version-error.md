@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Error:(1, 0) Plugin is too old, please update to a more recent version, or set ANDROID_DAILY_OVERRIDE environment variable to..."
-excerpt: "The One donde el gradle no tenía la versión correcta"
+excerpt: "The One with the gradle's wrong version"
 date:   2016-07-25 23:52:10
 categories: [Android]
 comments: true

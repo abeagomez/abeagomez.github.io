@@ -65,5 +65,5 @@ Our chances are 7500/30000, that's 1/4. That means that 1/4 genes of the 50% tha
 
 So, that's it! We share the 12,5% of our genetic information with our cousins!
 
-I wanted to solve this problem with any relative, so I wrote this python script where I can define a family tree and then ask for the percent of DNA shared between two family members. 
+I wanted to solve this problem with any relative, so I wrote this python script where I can define a family tree and then ask for the percent of DNA shared between two family members: [link](https://github.com/abeagomez/genetic_calculator)
 

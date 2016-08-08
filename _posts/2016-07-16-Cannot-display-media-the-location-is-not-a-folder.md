@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cannot display /media/... the location is not a folder"
-excerpt: "The One donde no podía ver mi disco externo"
+excerpt: "The One with a broken hard drive"
 date:   2016-07-16 19:57:19
 categories: [linux]
 comments: true
